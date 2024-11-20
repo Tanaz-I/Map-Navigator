@@ -27,7 +27,7 @@ The **Map Navigator** is a GUI application built using **Tkinter** that allows u
 ## Example Output
 
 ### 1. Input
-![Input](input .png)
+![Input](input.png)
 
 ### 2. Output
 ![Output](output.png)
