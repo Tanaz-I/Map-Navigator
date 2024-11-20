@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Map Navigator** is a GUI application built using **Tkinter** that allows users to select a source city and a destination city from a list of cities. The system calculates the shortest route between the selected cities using **Dijkstra's algorithm using Fibonacci heap** and visualizes the route on an interactive map generated with **Folium**. 
+The **Map Navigator** is a Python based application built using **Tkinter** that allows users to select a source city and a destination city from a list of cities. The system calculates the shortest route between the selected cities using **Dijkstra's algorithm using Fibonacci heap** and visualizes the route on an interactive map generated with **Folium**. 
 
 ## Features
 - **Dataset**: `cities.csv` consists of cities list along with lattitude and longtitude.
